@@ -1,0 +1,11 @@
+Algoritmo Acordar
+1. Escutar o despertador.
+2. Abrir os olhos.
+3. Desligar o despertador.
+4. Levantar.
+5. Ir para o banheiro.
+6. Escovar os dentes e lavar o rosto.
+7. Fazer necessidades.
+8. Voltar para o quarto
+9. Trocar de roupa.
+Fim
